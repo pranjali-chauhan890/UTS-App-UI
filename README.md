@@ -25,4 +25,6 @@ A beautifully designed Android UI for an Unreserved Ticketing System (UTS) app, 
 - *ConstraintLayout / LinearLayout*
 - *Drawable resources (icons, backgrounds)*
 
+---
+
 If you found this project useful, feel free to star ⭐ the repository and share it with others!
